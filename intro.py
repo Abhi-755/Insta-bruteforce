@@ -65,7 +65,7 @@ print(Panel( '''
            '//||\\\`
              ''``
 
-[bold red]Insta-Bruteforce by  Krishna & Ꭰᥲʀk Ꮮᴇᴀᴅᴇʀ                           
+[bold red]Insta-Bruteforce by  Abhi yadav                      
 '''))
 print(Panel('''
 [[bold white][[bold red]^[bold white]] [bold green] Author: Krishna & Ꭰᥲʀk Ꮮᴇᴀᴅᴇʀ 
@@ -108,7 +108,7 @@ def start():
            '//||\\\`
              ''``
 
-[bold red]Insta-Bruteforce by Krishna & Ꭰᥲʀk Ꮮᴇᴀᴅᴇʀ
+[bold red]Insta-Bruteforce by Abhi yadav
 
                       
 '''))
