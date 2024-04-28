@@ -47,12 +47,12 @@ print(Panel( '''
              ''``
 
 
-[bold red]Insta-Bruteforce by Krishna & Ꭰᥲʀk Ꮮᴇᴀᴅᴇʀ                          
+[bold red]Insta-Bruteforce by Abhi yadav                         
 '''))
 print(Panel('''
-[bold white][[bold red]^[bold white]] [bold green] Author: Krishna & Ꭰᥲʀk Ꮮᴇᴀᴅᴇʀ 
-[bold white][[bold red]^[bold white]] [bold green] Github: github.com/Mr-Krishna-90 
-[bold white][[bold red]^[bold white]] [bold green] Telegram: https://t.me/+GrRkWxyiROs4ZGU1
+[bold white][[bold red]^[bold white]] [bold green] Author: Abhi yadav 
+[bold white][[bold red]^[bold white]] [bold green] Github: github.com/Abhi-755
+[bold white][[bold red]^[bold white]] [bold green] Facebook : https://www.facebook.com/100006623113766
  '''))
 
 # Add proxy configuration
